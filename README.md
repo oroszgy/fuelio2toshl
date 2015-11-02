@@ -8,7 +8,7 @@ https://www.georgemagiafas.com/toshl/
 https://toshl.com/blog/apps-that-connect-with-toshl-csv-importer/  
 
 About Toshl
------------------------
+=======================
 Toshl Finance is a funky mobile financial assistant that makes finance fun. 
 The goal is to get personal finance past the boring spreadsheets and graphs. 
 Toshl Finance brings fun and emotion to personal finance, thus lowering the 
