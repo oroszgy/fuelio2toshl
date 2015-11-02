@@ -4,8 +4,8 @@ Toshl CSV Import is a cool tool I have created, so that I could import my past
 months' expenses kept in an old-school Excel worksheet, without having to 
 manually add it one by one! More about Toshl CSV Import at:
 
-https://www.georgemagiafas.com/toshl/
-https://toshl.com/blog/apps-that-connect-with-toshl-csv-importer/
+https://www.georgemagiafas.com/toshl/  
+https://toshl.com/blog/apps-that-connect-with-toshl-csv-importer/  
 
 About Toshl
 -----------------------
