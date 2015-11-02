@@ -1,3 +1,7 @@
+Fuel.io Toshl importer
+======================
+This tool is based on Toshl CSV Import allowing users to import Fuel.io exported CSV files.
+
 Toshl CSV Import (Lite)
 =======================
 Toshl CSV Import is a cool tool I have created, so that I could import my past 
