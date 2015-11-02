@@ -1,8 +1,5 @@
 Toshl CSV Import (Lite)
 =======================
-
-About
------------------------
 Toshl CSV Import is a cool tool I have created, so that I could import my past 
 months' expenses kept in an old-school Excel worksheet, without having to 
 manually add it one by one! More about Toshl CSV Import at:
@@ -20,10 +17,12 @@ information about Toshl:
 
 http://www.toshl.com
 
+
 Requirements
 ======================
 * jQuery v2.1.3
 * Papa Parse v4.1.2
+
 
 Sample CSV Data
 ======================
